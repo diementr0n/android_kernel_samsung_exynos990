@@ -9,7 +9,7 @@ And a huge thank you to Windblade-Furisode
 ## About Kernel
 - Linux 4.19.325
 - Name "People's Front"
-- Display Version "4.19.325-ArtisanKRNL-v0.0.4+"
+- Display Version "4.19.325-ArtisanKRNL-v0.0.6+"
 
 
 ## Features
