@@ -33,8 +33,8 @@ jobs:
 
       - name: Build Kernel
         run: |
-          chmod +x ./build_all.sh
-          ./build_all.sh
+          chmod +x ./build.sh
+          ./build.sh -m r8s -k y
 
       - name: Find built zips
         id: find_zips
